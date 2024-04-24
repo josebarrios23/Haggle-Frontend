@@ -1,14 +1,12 @@
 # Haggle
 
-![Alt text](./Assets/coursquest-banner.png)
-
 ## Overview
 
 Haggle is a web application designed to help users discover and make offers on items for sale. Whether you're looking to sell something you don't need or buy vintage items, Haggle provides an easy-to-use platform for finding the perfect course to fit your needs.
 
 ## Haggle Backend
 
-[Haggle-Backend Link](https://github.com/MichaelARestrepoross/CoursQuest-Backend)
+[Haggle-Backend Link](https://github.com/josebarrios23/Haggle-Backend.git)
 
 ## Frontend Features
 
@@ -50,7 +48,7 @@ To run Haggle locally on your machine, follow these steps:
 
 3. **Set up the Backend**
 
-   Ensure that the backend API is running locally. Refer to the [Haggle Backend](https://github.com/MichaelARestrepoross/project-budgeting-app-backend) repository for instructions on setting up the backend.
+   Ensure that the backend API is running locally. Refer to the [Haggle Backend](https://github.com/josebarrios23/Haggle-Backend.git) repository for instructions on setting up the backend.
 
 4. **Start the Application**
 
