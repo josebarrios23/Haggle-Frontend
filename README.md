@@ -81,6 +81,6 @@ As a user, I want to view detailed information about other offers on an item, so
 
 ## Stretch Goals
 
-- **Advanced Search Functionality**: Enhance the search functionality with advanced filters, such as sorting by Subject or if the course is free.
+- **Advanced Search Functionality**: Search allows you to look for specific items using keywords.
 
 - **Tailwind for Styling**: Implement Tailwind CSS for styling the project, ensuring a consistent and modern UI.
