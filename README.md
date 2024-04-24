@@ -6,9 +6,13 @@ Haggle is a web application designed to help users discover and make offers on i
 
 ## Haggle Backend
 
-[Haggle-Backend Link](https://github.com/josebarrios23/Haggle-Backend.git)
+[Haggle-Backend Repo Link](https://github.com/josebarrios23/Haggle-Backend.git)
+[Haggle-Backend Render Link](https://haggle-backend.onrender.com)
 
 ## Frontend Features
+
+### Netlify URL
+[Haggle-Frontend Netlify Url](https://main--quiet-mooncake-381a41.netlify.app/)
 
 - **Items Listings**: Browse a list of items for sale, including details such as the item photo, seller, description, and price.
 - **Search and Filter**: Utilize the search bar and filter functionality to narrow down the list of items based on any desired keywords.
